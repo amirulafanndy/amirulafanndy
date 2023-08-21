@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirulafanndy&label=Profile%20views&color=0e75b6&style=flat" alt="amirulafanndy" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Laravel, BootStrap**
+- 🌱 I’m currently learning **ReactJS, Laravel, Bootstrap**
 
 - 💬 Ask me about **Java, PHP, HTML, CSS, JS**
 
